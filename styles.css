@@ -1425,3 +1425,14 @@ section.container-fluid {
   background-attachment: fixed; /* opcional */
   color: #fff;
 }
+.nombre-galaxia {
+  font-family:  'Goldman', sans-serif;
+  color: #0094d7;
+}
+.nombre-misterio {
+  font-family: 'Goldman', sans-serif;
+  color: #09a49d;
+}
+.universo-lista {
+  font-family: 'Montserrat', sans-serif;
+}
